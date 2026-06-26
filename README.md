@@ -36,7 +36,11 @@ qp/             Local copy of the qp photo-z metrics library
 
 ## Data
 
-All data files are stored in `paper_data/` (gitignored due to file size). The directory contains:
+All data files are stored in `paper_data/` (gitignored due to file size). To run any of the notebooks or scripts, download the dataset from Zenodo and extract it into `paper_data/`:
+
+**Dataset:** [https://zenodo.org/records/20937648](https://zenodo.org/records/20937648)
+
+The directory contains:
 - `data/` — input galaxy catalog (`rubin_roman_catalog.pq`) and trained normalizing flow models
 - `CMNN/`, `FZBoost/`, `GPz/`, `GPz_GL/`, `PZFlow/`, `TrainZ/` — per-estimator, per-degradation pipeline outputs and computed statistics
 - Root-level `.pq` files — survey band grids, derived statistics, and pipeline intermediates
