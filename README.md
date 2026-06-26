@@ -23,8 +23,7 @@ qp/             Local copy of the qp photo-z metrics library
 | Notebook | Description |
 |---|---|
 | `Test_Pipeline.ipynb` | Sets up and runs the RAIL pipeline: applies spectroscopic selection degradations, trains all six photo-z estimators on each degraded training set, and writes estimate outputs to `paper_data/` |
-| `Evaluation_Pipeline.ipynb` | Computes distribution-to-distribution metrics (CvM, KS, RMSE, KLD, Wasserstein distance), PIT histograms, CDE loss, and outlier rejection statistics for all estimators across all degradation scenarios; writes results as `.pq` stat files |
-| `Tq_ver_Evaluation_Pipeline.ipynb` | Revised evaluation pipeline with corrected `_tq` metric variants and updated Wasserstein distance calculations for PZFlow |
+| `Evaluation_Pipeline.ipynb` | Computes distribution-to-distribution metrics (CvM, KS, RMSE, KLD, Wasserstein distance), PIT histograms, CDE loss, and outlier rejection statistics for all estimators across all degradation scenarios; writes results as `.pq` stat files in `paper_data/` |
 | `Paper_Plots.ipynb` | Reads the computed statistics and generates all publication figures, saved to `plots/` |
 
 ## Scripts
