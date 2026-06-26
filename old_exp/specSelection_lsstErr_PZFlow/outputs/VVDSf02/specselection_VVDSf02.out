@@ -1,0 +1,5 @@
+Executing stage: specselection_VVDSf02 @ 2024-06-05 15:21:21.052752
+Inserting handle into data store.  output_train_set: ./output_train_set.pq, specselection_VVDSf02
+Warning: N_tot is greater than the size of spec-selected sample (137241). The spec-selected sample is returned.
+Inserting handle into data store.  output_specselection_VVDSf02: inprogress_output_specselection_VVDSf02.pq, specselection_VVDSf02
+Stage complete: specselection_VVDSf02 @ 2024-06-05 15:21:21.490119 took 0.01 minutes

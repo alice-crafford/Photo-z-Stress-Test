@@ -1,0 +1,218 @@
+Executing stage: FlexZBoostInformer @ 2024-06-17 15:23:26.331387
+Inserting handle into data store.  output_lsst_error_0: ./output_lsst_error_0.pq, inform_FZBoost
+stacking some data...
+read in training data
+fit the model...
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:23:27] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:23:27] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:23:27] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:23:27] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:23:27] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:23:27] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:23:27] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:23:27] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:23:28] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:23:28] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:23:28] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:23:28] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:23:28] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:23:28] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:23:28] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:23:28] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:23:29] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:23:29] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:23:29] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:23:29] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:23:29] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:23:29] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:23:29] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:23:29] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+finding best bump thresh...
+finding best sharpen parameter...
+Retraining with full training set...
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:20] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:20] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:20] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:20] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:20] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:20] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:20] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:20] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:21] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:21] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:21] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:21] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:21] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:21] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:21] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:21] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:22] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:22] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:22] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:22] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:22] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:22] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:22] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:22] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:23] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:23] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:23] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/xgboost/core.py:160: UserWarning: [15:24:23] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:742: 
+Parameters: { "silent" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+Inserting handle into data store.  model_inform_FZBoost: inprogress_fzboost.pkl, inform_FZBoost
+Stage complete: FlexZBoostInformer @ 2024-06-17 15:24:25.057372 took 0.98 minutes

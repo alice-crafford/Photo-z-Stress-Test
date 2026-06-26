@@ -1,0 +1,184 @@
+estimate_TrainZ:
+  aliases:
+    input: output_lsst_error
+    model: model_inform_TrainZ
+    output: output_estimate_TrainZ
+  calculated_point_estimates: []
+  chunk_size: 10000
+  config: null
+  hdf5_groupname: ''
+  input: None
+  model: BOSS_trainz.pkl
+  name: estimate_TrainZ
+  nzbins: 301
+  output_mode: default
+  zmax: 3.0
+  zmin: 0.0
+inform_TrainZ:
+  aliases:
+    input: output_lsst_error_0
+    model: model_inform_TrainZ
+  config: null
+  hdf5_groupname: ''
+  input: None
+  model: BOSS_trainz.pkl
+  name: inform_TrainZ
+  nzbins: 301
+  output_mode: default
+  redshift_col: redshift
+  save_train: true
+  zmax: 3.0
+  zmin: 0.0
+lsst_error:
+  Cm: &id001
+    g: 24.42
+    i: 24.32
+    r: 24.44
+    u: 23.09
+    y: 23.73
+    z: 24.16
+  aMax: 2.0
+  aMin: 0.7
+  absFlux: false
+  airmass: 1.2
+  aliases:
+    input: output_test_set
+    output: output_lsst_error
+  config: null
+  decorrelate: true
+  errLoc: after
+  extendedType: point
+  gamma: &id002
+    g: 0.039
+    i: 0.039
+    r: 0.039
+    u: 0.038
+    y: 0.039
+    z: 0.039
+  highSNR: false
+  input: None
+  km: &id003
+    g: 0.213
+    i: 0.096
+    r: 0.126
+    u: 0.491
+    y: 0.17
+    z: 0.069
+  m5: &id004 {}
+  majorCol: major
+  minorCol: minor
+  msky: &id005
+    g: 22.26
+    i: 20.48
+    r: 21.2
+    u: 22.99
+    y: 18.61
+    z: 19.6
+  nVisYr: &id006
+    g: 8.0
+    i: 18.4
+    r: 18.4
+    u: 5.6
+    y: 16.0
+    z: 16.0
+  nYrObs: 10.0
+  name: lsst_error
+  ndFlag: .nan
+  ndMode: flag
+  output_mode: default
+  renameDict: &id007
+    g: mag_g_lsst
+    i: mag_i_lsst
+    r: mag_r_lsst
+    u: mag_u_lsst
+    y: mag_y_lsst
+    z: mag_z_lsst
+  scale: &id008 {}
+  seed: 39
+  sigLim: 0
+  sigmaSys: 0.005
+  theta: &id009
+    g: 0.77
+    i: 0.71
+    r: 0.73
+    u: 0.81
+    y: 0.68
+    z: 0.69
+  tvis: 30.0
+  validate: true
+lsst_error_0:
+  Cm: *id001
+  aMax: 2.0
+  aMin: 0.7
+  absFlux: false
+  airmass: 1.2
+  aliases:
+    input: output_specselection_boss
+    output: output_lsst_error_0
+  config: null
+  decorrelate: true
+  errLoc: after
+  extendedType: point
+  gamma: *id002
+  highSNR: false
+  input: None
+  km: *id003
+  m5: *id004
+  majorCol: major
+  minorCol: minor
+  msky: *id005
+  nVisYr: *id006
+  nYrObs: 10.0
+  name: lsst_error_0
+  ndFlag: .nan
+  ndMode: flag
+  output_mode: default
+  renameDict: *id007
+  scale: *id008
+  seed: 17
+  sigLim: 0
+  sigmaSys: 0.005
+  theta: *id009
+  tvis: 30.0
+  validate: true
+spec_train_set:
+  aliases:
+    output: output_spec_train_set
+  config: null
+  model: /Users/alicec03/Desktop/Summer_Research/Photo-z-Stress-Test/Photo-z-Stress-Test/data/5e5_trained_flow.pkl
+  n_samples: 5000000
+  name: spec_train_set
+  output_mode: default
+  seed: 17
+specselection_boss:
+  N_tot: 5000000
+  aliases:
+    input: output_spec_train_set
+    output: output_specselection_boss
+  colnames:
+    g: mag_g_lsst
+    i: mag_i_lsst
+    r: mag_r_lsst
+    redshift: redshift
+    u: mag_u_lsst
+    y: mag_y_lsst
+    z: mag_z_lsst
+  config: null
+  downsample: true
+  input: None
+  name: specselection_boss
+  nondetect_val: 99.0
+  output_mode: default
+  percentile_cut: 100
+  random_seed: 42
+  seed: 12345
+  success_rate_dir: /Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/rail/examples_data/creation_data/data/success_rate_data
+test_set:
+  aliases:
+    output: output_test_set
+  config: null
+  model: /Users/alicec03/Desktop/Summer_Research/Photo-z-Stress-Test/Photo-z-Stress-Test/data/5e5_trained_flow.pkl
+  n_samples: 10000
+  name: test_set
+  output_mode: default
+  seed: 39

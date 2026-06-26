@@ -1,0 +1,5 @@
+Executing stage: specselection_HSC @ 2024-08-09 21:29:57.874469
+Inserting handle into data store.  output_spec_train_set: ./output_spec_train_set.pq, specselection_HSC
+Warning: N_tot is greater than the size of spec-selected sample (14342). The spec-selected sample is returned.
+Inserting handle into data store.  output_specselection_HSC: inprogress_output_specselection_HSC.pq, specselection_HSC
+Stage complete: specselection_HSC @ 2024-08-09 21:29:58.653001 took 0.01 minutes

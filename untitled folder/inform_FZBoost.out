@@ -1,0 +1,114 @@
+Executing stage: Inform_FZBoost @ 2023-07-04 10:25:13.244095
+Inserting handle into data store.  output_inv_redshift_deg: ./output_inv_redshift_deg.pq, inform_FZBoost
+stacking some data...
+read in training data
+fit the model...
+[10:25:14] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:14] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:14] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:14] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+[10:25:14] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+
+[10:25:14] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:14] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:14] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:14] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:15] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:15] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:15] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:15] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:15] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:15] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:15] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:15] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:16] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:16] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:16] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:16] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:16] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:16] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:16] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:16] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:17] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:17] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:17] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:17] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:17] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:17] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:17] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:17] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:18] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+[10:25:18] WARNING: /private/var/folders/jl/5jxwvx_x5q364l56c4qph1g00000gn/T/pip-install-eeaedq5e/xgboost_e2bb7fd5d4194af8881e01ff690195d0/build/temp.macosx-11.0-arm64-cpython-310/xgboost/src/learner.cc:767: 
+Parameters: { "silent" } are not used.
+
+finding best bump thresh...
+finding best sharpen parameter...
+Inserting handle into data store.  model_inform_FZBoost: inprogress_fzboost.pkl, inform_FZBoost
+Stage complete: Inform_FZBoost @ 2023-07-04 10:25:41.282150 took 0.47 minutes

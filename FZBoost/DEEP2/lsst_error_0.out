@@ -1,0 +1,4 @@
+Executing stage: LSSTErrorModel @ 2024-08-02 00:22:41.060181
+Inserting handle into data store.  output_specselection_deep2: ./output_specselection_deep2.pq, lsst_error_0
+Inserting handle into data store.  output_lsst_error_0: inprogress_output_lsst_error_0.pq, lsst_error_0
+Stage complete: LSSTErrorModel @ 2024-08-02 00:22:41.141429 took 0.00 minutes

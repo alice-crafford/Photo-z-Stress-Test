@@ -1,0 +1,4 @@
+Executing stage: LSSTErrorModel @ 2024-08-29 12:55:22.305437
+Inserting handle into data store.  output_specselection_zCOSMOS: ./output_specselection_zCOSMOS.pq, lsst_error_0
+Inserting handle into data store.  output_lsst_error_0: inprogress_output_lsst_error_0.pq, lsst_error_0
+Stage complete: LSSTErrorModel @ 2024-08-29 12:55:22.372298 took 0.00 minutes

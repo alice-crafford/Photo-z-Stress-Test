@@ -1,0 +1,9 @@
+Executing stage: Inform_PZFlowPdf @ 2024-06-05 15:27:23.736351
+Inserting handle into data store.  output_lsst_error_0: ./output_lsst_error_0.pq, inform_PZFlow
+Training 50 epochs 
+Loss:
+(0) inf
+(1) inf
+Training stopping after epoch 1 because training loss diverged.
+Inserting handle into data store.  model_inform_PZFlow: inprogress_pzflow.pkl, inform_PZFlow
+Stage complete: Inform_PZFlowPdf @ 2024-06-05 15:27:51.538591 took 0.46 minutes

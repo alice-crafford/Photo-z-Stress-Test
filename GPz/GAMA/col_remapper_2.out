@@ -1,0 +1,4 @@
+Executing stage: ColumnMapper @ 2024-08-02 00:07:28.892113
+Inserting handle into data store.  output_quantity_cut_2: ./output_quantity_cut_2.pq, col_remapper_2
+Inserting handle into data store.  output_col_remapper_2: inprogress_output_col_remapper_2.pq, col_remapper_2
+Stage complete: ColumnMapper @ 2024-08-02 00:07:29.129978 took 0.00 minutes

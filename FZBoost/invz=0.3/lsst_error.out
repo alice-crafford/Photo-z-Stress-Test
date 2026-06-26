@@ -1,0 +1,4 @@
+Executing stage: LSSTErrorModel @ 2024-08-12 15:32:54.419404
+Inserting handle into data store.  output_test_set: ./output_test_set.pq, lsst_error
+Inserting handle into data store.  output_lsst_error: inprogress_output_lsst_error.pq, lsst_error
+Stage complete: LSSTErrorModel @ 2024-08-12 15:32:54.558695 took 0.00 minutes

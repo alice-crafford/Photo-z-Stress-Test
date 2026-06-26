@@ -1,0 +1,4 @@
+Executing stage: InvRedshiftIncompleteness @ 2024-08-29 13:03:46.915989
+Inserting handle into data store.  output_invz_train_set: ./output_invz_train_set.pq, inv_redshift
+Inserting handle into data store.  output_inv_redshift: inprogress_output_inv_redshift.pq, inv_redshift
+Stage complete: InvRedshiftIncompleteness @ 2024-08-29 13:03:46.972190 took 0.00 minutes

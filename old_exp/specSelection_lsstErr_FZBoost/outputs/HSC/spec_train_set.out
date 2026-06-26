@@ -1,0 +1,4 @@
+Inserting handle into data store.  model: /Users/alicec03/Desktop/Summer_Research/Photo-z-Stress-Test/Photo-z-Stress-Test/data/trained_flow.pkl, spec_train_set
+Executing stage: FlowCreator @ 2024-06-17 15:23:12.461551
+Inserting handle into data store.  output_spec_train_set: inprogress_output_spec_train_set.pq, spec_train_set
+Stage complete: FlowCreator @ 2024-06-17 15:23:19.122693 took 0.11 minutes

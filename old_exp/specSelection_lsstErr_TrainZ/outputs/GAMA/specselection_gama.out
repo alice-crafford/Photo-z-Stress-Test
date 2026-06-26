@@ -1,0 +1,6 @@
+Executing stage: specselection_gama @ 2024-06-17 15:52:22.357308
+Inserting handle into data store.  output_spec_train_set: ./output_spec_train_set.pq, specselection_gama
+Applying the selection from GAMA survey...
+Warning: N_tot is greater than the size of spec-selected sample (4567). The spec-selected sample is returned.
+Inserting handle into data store.  output_specselection_gama: inprogress_output_specselection_gama.pq, specselection_gama
+Stage complete: specselection_gama @ 2024-06-17 15:52:22.645532 took 0.00 minutes

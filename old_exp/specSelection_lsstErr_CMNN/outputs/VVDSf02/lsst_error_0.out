@@ -1,0 +1,4 @@
+Executing stage: LSSTErrorModel @ 2024-06-17 16:11:48.880490
+Inserting handle into data store.  output_specselection_VVDSf02: ./output_specselection_VVDSf02.pq, lsst_error_0
+Inserting handle into data store.  output_lsst_error_0: inprogress_output_lsst_error_0.pq, lsst_error_0
+Stage complete: LSSTErrorModel @ 2024-06-17 16:11:49.101342 took 0.00 minutes

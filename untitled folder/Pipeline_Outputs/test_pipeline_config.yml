@@ -1,0 +1,98 @@
+inv_redshift:
+  aliases:
+    input: output_train_set
+    output: output_inv_redshift
+  config: null
+  input: None
+  name: inv_redshift
+  output_mode: default
+  pivot_redshift: 1.0
+  seed: 12345
+lsst_error:
+  A_max: 2.0
+  A_min: 0.7
+  Cm:
+    g: 24.42
+    i: 24.32
+    r: 24.44
+    u: 23.09
+    y: 23.73
+    z: 24.16
+  airmass: 1.2
+  aliases:
+    input: output_test_set
+    output: output_lsst_error
+  bandNames:
+    g: mag_g_lsst
+    i: mag_i_lsst
+    r: mag_r_lsst
+    u: mag_u_lsst
+    y: mag_y_lsst
+    z: mag_z_lsst
+  config: null
+  errorType: point
+  extendedSource: 0.0
+  gamma:
+    g: 0.039
+    i: 0.039
+    r: 0.039
+    u: 0.038
+    y: 0.039
+    z: 0.039
+  highSNR: false
+  input: None
+  km:
+    g: 0.213
+    i: 0.096
+    r: 0.126
+    u: 0.491
+    y: 0.17
+    z: 0.069
+  m5: {}
+  magLim: 30.0
+  msky:
+    g: 22.26
+    i: 20.48
+    r: 21.2
+    u: 22.99
+    y: 18.61
+    z: 19.6
+  nVisYr:
+    g: 8.0
+    i: 18.4
+    r: 18.4
+    u: 5.6
+    y: 16.0
+    z: 16.0
+  nYrObs: 10.0
+  name: lsst_error
+  ndFlag: .nan
+  output_mode: default
+  seed: 172
+  sigmaSys: 0.005
+  theta:
+    g: 0.77
+    i: 0.71
+    r: 0.73
+    u: 0.81
+    y: 0.68
+    z: 0.69
+  tvis: 30.0
+test_set:
+  aliases:
+    output: output_test_set
+  config: null
+  model: /Users/alicec03/Desktop/Summer_Research/Photo-z-Stress-Test/Photo-z-Stress-Test/data/trained_flow.pkl
+  n_samples: 100
+  name: test_set
+  output_mode: default
+  seed: 39
+train_set:
+  aliases:
+    output: output_train_set
+  config: null
+  model: /Users/alicec03/Desktop/Summer_Research/Photo-z-Stress-Test/Photo-z-Stress-Test/data/trained_flow.pkl
+  n_samples: 100
+  name: train_set
+  output_mode: default
+  seed: 17

@@ -1,0 +1,17 @@
+Executing stage: CMNNPDF @ 2024-08-09 13:59:03.165307
+Inserting handle into data store.  model_inform_CMNN: invz=0.6_cmnn.pkl, estimate_CMNN
+Inserting handle into data store.  output_col_remapper_2: ./output_col_remapper_2.pq, estimate_CMNN
+Process 0 running estimator on chunk 0 - 31248
+Process 0 estimating PZ PDF for rows 0 - 31,248
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/rail/estimation/algos/cmnn.py:159: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data[col][mask] = np.nan
+/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/rail/estimation/algos/cmnn.py:160: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data[err][mask] = np.nan
+Inserting handle into data store.  output_estimate_CMNN: inprogress_output_estimate_CMNN.hdf5, estimate_CMNN
+Stage complete: CMNNPDF @ 2024-08-09 14:01:19.043978 took 2.26 minutes
