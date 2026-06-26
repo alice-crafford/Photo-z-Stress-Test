@@ -1,12 +1,12 @@
 # Photo-z Stress Test
 
-Code and analysis for **"Stress Testing Photometric Redshift Algorithms: A Case Study with RAIL"** (Zhang et al. 2023).
+Code and analysis for **"Diagnosing the Effects of Spectroscopic Training Set Imperfection on Photometric Redshift Performance"** (Crafford et al. 2026).
 
 Paper: [arXiv:2601.10797](https://arxiv.org/abs/2601.10797)
 
 ## Overview
 
-This repository contains the full analysis pipeline used to evaluate photo-z estimators under realistic spectroscopic training-set degradations. Six estimators (TrainZ, CMNN, GPz, GPz+GL, FZBoost, PZFlow) are run across six spectroscopic survey footprints (BOSS, DEEP2, GAMA, HSC, VVDSf02, zCOSMOS) and a range of inverse-redshift weighting strengths, with results compared using distribution-to-distribution metrics.
+This repository contains the full analysis pipeline used to evaluate photo-z estimators under realistic spectroscopic training-set degradations. Six estimators (TrainZ, CMNN, GPz, GPz+GL, FZBoost, PZFlow) are run across six spectroscopic degradations (BOSS, DEEP2, GAMA, HSC, VVDSf02, zCOSMOS) and a range of inverse-redshift weighting strengths, with results compared using various metrics.
 
 ## Repository Structure
 
