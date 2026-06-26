@@ -6,7 +6,7 @@ Paper: [arXiv:2601.10797](https://arxiv.org/abs/2601.10797)
 
 ## Overview
 
-This repository contains the full analysis pipeline used to evaluate photo-z estimators under realistic spectroscopic training-set degradations. Six estimators (TrainZ, CMNN, GPz, GPz+GL, FZBoost, PZFlow) are run across six spectroscopic degradations (BOSS, DEEP2, GAMA, HSC, VVDSf02, zCOSMOS) and a range of inverse-redshift weighting strengths, with results compared using various metrics.
+This repository contains the full analysis pipeline used to evaluate photo-z estimators under realistic spectroscopic training-set degradations. Six estimators (TrainZ, CMNN, GPz, GPz+GL, FZBoost, PZFlow) are run across six spectroscopic degradations (BOSS, DEEP2, GAMA, HSC, VVDSf02, zCOSMOS) and a range of inverse-redshift incompleteness, with results compared using various metrics.
 
 ## Repository Structure
 
