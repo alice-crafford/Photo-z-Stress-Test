@@ -1,8 +1,0 @@
-Executing stage: PZFlowEstimator @ 2024-06-05 15:19:59.863997
-Inserting handle into data store.  model_inform_PZFlow: pzflow.pkl, estimate_PZFlow
-Inserting handle into data store.  output_lsst_error: ./output_lsst_error.pq, estimate_PZFlow
-Process 0 running estimator on chunk 0 - 10000
-/Users/alicec03/miniforge3/envs/rail---new/lib/python3.11/site-packages/qp/interp_pdf.py:83: RuntimeWarning: invalid value encountered in divide
-  self._ycumul = (self._ycumul.T / self._ycumul[:,-1]).T
-Inserting handle into data store.  output_estimate_PZFlow: inprogress_output_estimate_PZFlow.hdf5, estimate_PZFlow
-Stage complete: PZFlowEstimator @ 2024-06-05 15:20:58.615562 took 0.98 minutes

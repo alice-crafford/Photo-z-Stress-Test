@@ -1,4 +1,0 @@
-Executing stage: ColumnMapper @ 2024-06-17 17:26:09.200089
-Inserting handle into data store.  output_lsst_error_0: ./output_lsst_error_0.pq, col_remapper_1
-Inserting handle into data store.  output_col_remapper_1: inprogress_output_col_remapper_1.pq, col_remapper_1
-Stage complete: ColumnMapper @ 2024-06-17 17:26:09.451845 took 0.00 minutes

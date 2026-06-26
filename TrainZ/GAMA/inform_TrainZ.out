@@ -1,4 +1,0 @@
-Executing stage: TrainZInformer @ 2024-08-09 21:29:15.268486
-Inserting handle into data store.  output_quantity_cut_1: ./output_quantity_cut_1.pq, inform_TrainZ
-Inserting handle into data store.  model_inform_TrainZ: inprogress_GAMA_trainz.pkl, inform_TrainZ
-Stage complete: TrainZInformer @ 2024-08-09 21:29:15.480693 took 0.00 minutes

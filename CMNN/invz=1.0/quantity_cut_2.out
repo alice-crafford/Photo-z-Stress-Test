@@ -1,4 +1,0 @@
-Executing stage: QuantityCut @ 2024-08-01 23:44:58.613612
-Inserting handle into data store.  output_lsst_error: ./output_lsst_error.pq, quantity_cut_2
-Inserting handle into data store.  output_quantity_cut_2: inprogress_output_quantity_cut_2.pq, quantity_cut_2
-Stage complete: QuantityCut @ 2024-08-01 23:44:58.865834 took 0.00 minutes

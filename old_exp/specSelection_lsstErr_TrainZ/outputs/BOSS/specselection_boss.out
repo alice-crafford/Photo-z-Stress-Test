@@ -1,6 +1,0 @@
-Executing stage: specselection_boss @ 2024-06-17 15:51:18.850428
-Inserting handle into data store.  output_spec_train_set: ./output_spec_train_set.pq, specselection_boss
-Applying the selection from BOSS survey...
-Warning: N_tot is greater than the size of spec-selected sample (1133). The spec-selected sample is returned.
-Inserting handle into data store.  output_specselection_boss: inprogress_output_specselection_boss.pq, specselection_boss
-Stage complete: specselection_boss @ 2024-06-17 15:51:19.199968 took 0.01 minutes

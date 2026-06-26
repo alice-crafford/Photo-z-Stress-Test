@@ -1,4 +1,0 @@
-Executing stage: LSSTErrorModel @ 2024-08-02 00:33:35.342240
-Inserting handle into data store.  output_inv_redshift: ./output_inv_redshift.pq, lsst_error_0
-Inserting handle into data store.  output_lsst_error_0: inprogress_output_lsst_error_0.pq, lsst_error_0
-Stage complete: LSSTErrorModel @ 2024-08-02 00:33:35.458054 took 0.00 minutes

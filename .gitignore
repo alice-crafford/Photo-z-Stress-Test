@@ -5,6 +5,9 @@
 *.pkl
 *.parquet
 
+# Data folder — all contents ignored
+paper_data/
+
 # macOS
 .DS_Store
 

@@ -1,5 +1,0 @@
-Executing stage: specselection_deep2 @ 2024-08-01 23:21:26.335145
-Inserting handle into data store.  output_spec_train_set: ./output_spec_train_set.pq, specselection_deep2
-Warning: N_tot is greater than the size of spec-selected sample (38480). The spec-selected sample is returned.
-Inserting handle into data store.  output_specselection_deep2: inprogress_output_specselection_deep2.pq, specselection_deep2
-Stage complete: specselection_deep2 @ 2024-08-01 23:21:26.658075 took 0.01 minutes

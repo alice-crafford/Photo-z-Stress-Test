@@ -1,4 +1,0 @@
-Executing stage: TableConverter @ 2023-07-04 10:25:01.201125
-Inserting handle into data store.  output_col_remapper: ./output_col_remapper.pq, table_conv
-Inserting handle into data store.  output_table_conv: inprogress_output_table_conv.hdf5, table_conv
-Stage complete: TableConverter @ 2023-07-04 10:25:01.282168 took 0.00 minutes

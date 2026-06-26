@@ -1,6 +1,0 @@
-Executing stage: TrainZEstimator @ 2024-06-17 15:58:58.105394
-Inserting handle into data store.  model_inform_TrainZ: trainz.pkl, estimate_TrainZ
-Inserting handle into data store.  output_lsst_error: ./output_lsst_error.pq, estimate_TrainZ
-Process 0 running estimator on chunk 0 - 10000
-Inserting handle into data store.  output_estimate_TrainZ: inprogress_output_estimate_TrainZ.hdf5, estimate_TrainZ
-Stage complete: TrainZEstimator @ 2024-06-17 15:58:58.535931 took 0.01 minutes

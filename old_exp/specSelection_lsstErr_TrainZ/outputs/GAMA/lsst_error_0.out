@@ -1,4 +1,0 @@
-Executing stage: LSSTErrorModel @ 2024-06-17 15:52:25.501471
-Inserting handle into data store.  output_specselection_gama: ./output_specselection_gama.pq, lsst_error_0
-Inserting handle into data store.  output_lsst_error_0: inprogress_output_lsst_error_0.pq, lsst_error_0
-Stage complete: LSSTErrorModel @ 2024-06-17 15:52:25.537630 took 0.00 minutes
