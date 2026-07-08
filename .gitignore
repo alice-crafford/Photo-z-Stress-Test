@@ -1,7 +1,16 @@
 # RAIL-specific files
 *.hdf5
+*.hdf5\ copy
 *.pq
 *.pkl
+*.parquet
+
+# Data folder — all contents ignored
+paper_data/
+paper_data.zip
+
+# macOS
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
